@@ -1,4 +1,6 @@
-## Hi, I'm Saurabh Rai!
+<h1 align='center'> Hi 👋, I'm Saurabh Rai!</h1>
+
+<img src='src/circle.png' align='left' width=250>
 
 You can use the [editor on GitHub](https://github.com/srbhr/sample-portfolio-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
